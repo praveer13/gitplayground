@@ -1,2 +1,2 @@
 # gitplayground
-A git repo for practiving git
+A git repo for practicing git
